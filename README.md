@@ -8,3 +8,6 @@ Module 1 Mini Capstone - Vending Machine
 
 Module 2 Mini Capstone - TEnmo
     Group of 4 produced a server and partial console client UI emulating TEnmo, a money transfer app. Utilizing C#, MS SQL, JSON, PostMan, integration testing, and JWT Authentication developed a RESTful API server and basic command line application that registers new users, requires login authentication, and permits and validates balance transfers. 
+
+Card Dealer
+    C# console line program that "deals" (prints to console) cards for War and Euchre. Uses OOP principles with "Card" and "Player" objects.
