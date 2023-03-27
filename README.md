@@ -11,3 +11,6 @@ Module 2 Mini Capstone - TEnmo
 
 Card Dealer
     C# console line program that "deals" (prints to console) cards for War and Euchre. Uses OOP principles with "Card" and "Player" objects.
+
+Ping Pong Tournament Tool
+    C# console line program that allows user to create and run ping pong tournaments for singles and doubles using an "IPlayable" interface in Single Elimination, Double Elimination, and Round Robin style brackets using the Bracket parent class.
