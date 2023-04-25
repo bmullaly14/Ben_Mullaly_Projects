@@ -1,0 +1,52 @@
+## GETS
+Get all restaurants:
+https://localhost:44315/restaurant/
+
+Get info on a restaurant by restaurant ID:
+https://localhost:44315/restaurant/2
+
+Get a list of drinks at a restaurant by restaurant ID:
+https://localhost:44315/restaurant/2/drinks
+
+
+
+## POSTS:
+Logging in:
+https://localhost:44315/login
+{
+    "Username": "user",
+    "Password": "password"
+}
+
+Adding a restaurant:
+https://localhost:44315/restaurant/new
+{
+    "Name": "SuperMarg",
+    "ZipCode": "44118"
+}
+
+
+## PUT:
+Update a restaurant:
+https://localhost:44315/restaurant/16
+{
+    "restaurant_ID": 16,
+    "Name": "MargMart",
+    "ZipCode": "44119"
+}
+
+
+
+
+## DELETES:
+Delete a restaurant:
+https://localhost:44315/restaurant/16
+
+
+
+YELP
+https://localhost:44315/YelpApi/ 
+{
+    "zipcode": "44113",
+    "name": "Edisons"
+}

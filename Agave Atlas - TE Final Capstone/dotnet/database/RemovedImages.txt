@@ -1,0 +1,73 @@
+update restaurants
+set image_file_path = 'Barrio44107.jpg'
+WHERE name = 'Barrio' AND zip_code = '44107';
+USE final_capstone
+GO
+update restaurants
+set image_file_path = 'Barrio44113.jpg'
+WHERE name = 'Barrio' AND zip_code = '44113';
+USE final_capstone
+GO
+update restaurants
+set image_file_path = 'Barrio44115.jpg'
+WHERE name = 'Barrio' AND zip_code = '44115';
+USE final_capstone
+GO
+update restaurants
+set image_file_path = 'Barrio44114.jpg'
+WHERE name = 'Barrio' AND zip_code = '44114';
+USE final_capstone
+GO
+update restaurants
+set image_file_path = 'Barrio44106.jpg'
+WHERE name = 'Barrio' AND zip_code = '44106';
+USE final_capstone
+GO
+update restaurants
+set image_file_path = 'Barrio44149.jpg'
+WHERE name = 'Barrio' AND zip_code = '44149';
+USE final_capstone
+GO
+update restaurants
+set image_file_path = 'Momocho44113.jpg'
+WHERE name = 'Momocho' AND zip_code = '44113';
+USE final_capstone
+GO
+update restaurants
+set image_file_path = 'TacoTonto''s44240.jpg'
+WHERE name = 'Taco Tonto''s' AND zip_code = '44240';
+USE final_capstone
+GO
+update restaurants
+set image_file_path = 'TacoTonto''s44107.jpg'
+WHERE name = 'Taco Tonto''s' AND zip_code = '44107';
+USE final_capstone
+GO
+update restaurants
+set image_file_path = 'ElCarnicero44107.jpg'
+WHERE name = 'El Carnicero' AND zip_code = '44107';
+USE final_capstone
+GO
+update restaurants
+set image_file_path = 'Barocco44107.jpg'
+WHERE name = 'Barocco' AND zip_code = '44107';
+USE final_capstone
+GO
+update restaurants
+set image_file_path = 'BlueHabanero44136.jpg'
+WHERE name = 'Blue Habanero' AND zip_code = '44136';
+USE final_capstone
+GO
+update restaurants
+set image_file_path = 'BlueHabanero44141.jpg'
+WHERE name = 'Blue Habanero' AND zip_code = '44141';
+USE final_capstone
+GO
+update restaurants
+set image_file_path = 'BlueHabanero44102.jpg'
+WHERE name = 'Blue Habanero' AND zip_code = '44102';
+USE final_capstone
+GO
+update restaurants
+set image_file_path = 'JohnnyMango44113.jpg'
+WHERE name = 'Johnny Mango' AND zip_code = '44113';

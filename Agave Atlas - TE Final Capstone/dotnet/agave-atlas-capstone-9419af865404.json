@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "agave-atlas-capstone",
+  "private_key_id": "9419af86540469a888a48166a0396c80646da25c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCnri44BrlNbAy3\njwoAQ8dg8xH4tp/zMzal/duMv4CtXjpcIGMid1lCJvpHrcVdgoh+PW4c0zz0biTl\nuiUcLL4CCgJH8ijLDw3JilzB8pAvRkNLcs5xtLrS4I2srtB+ysQFEN/fImz/BXHZ\nEPyc+pl4MohSXM/gjhpWzZXDq9amVOrr5xUlzmBxBDF03wkwiapYerCyfe0tLbA7\n4T8rYkJ0RXwXiTG852ZuUfohvjBQnYcX7+0JoVKjhmmzOCG79SRWWoK8wd50Q3n+\nbmsLjImXNhls7juWw/BE+5eBG8seVMF4sb5SfUMZj8dSl0uiVvIRJ1pqS9AIcG1r\nIM45BHCDAgMBAAECggEAEsBu2MMfu+HGdkyfwLHTvSrRqq+5qXfjt6JxCAdue3Tb\nL+xLSdJw/+3d9WAgfzmWzA9QnhadbXRX2fz8I295fD7kTGlvWG4Bi7VWdDYNG8xO\nwERBhAPDFMwZ6+LM3DEOxMZDUu/FoqtYNP8qUN/Rg9ia2CMa+DDMD0MEaZJw+b68\n+OI6kH0NGwqJGWNCLyvWPVw0YSGPl4uliRYAJugAYajKpcueFQB3QEaJlCqGh32J\nX/1z1OKijGx3hnHx177JbXEJ5JviMZKXbBwZD0eJU/4rRbh5YZvHQ5Q/wrzjrKEU\nBAMVKyiE1xzIjSaUnFaxj+9yrtQd5oiBvYbQO1hO+QKBgQDYQTci0pWQono1l0Kn\nWkmPsV9xwS68msK5/fzYs6iU8odAs3BZ92swLlGm5oRe+uSyXRo8l3C1TC1AF+7G\n5bGT+EcNQ5SODkR2pLCtGruplVyKAY//o6m14w5pBXCdmpHHHWCN7EXkX+CtMibN\n5iYPexRI3jQIXMpkdP1OLnEtdQKBgQDGf4rEBKS5Tw7aBXz12qabx/W0m/FysLGN\nUntkp5LcXANP8bFioWI3Id1CwT9h1q4lrbUJQrQ/5vGh8U1TpvtkoKLDjbk26zDS\ntDDmPIXTInT0DkoKjlwKRZSfcj/2y+9i1BDXmXgYSPGnqg7WAWBJyBfv5naNxOxo\nqvNXKwGPFwKBgQCiPBqvByipfxsLxVR91GBHapvd7T2wxLG9cuwTboTUaTZKtdNd\nyx4g4T7kZR99Wd/kZ7BdMIefm2x/HvVFReB4z9QOAVsbT1zRXTAmTV3oFWN9LTro\nX9Hb4GFZLHmV4vXmWQWss0qjz8HwbSVrZnO7PWy0Ve7XLzWvM40s7+58WQKBgFg1\n7bDWb216WJtCvRl0pX2tCt/MPSw+oWiwMu20Gmua6E3qlm3CUic2AWHdBxGvmYxc\n+Yq3/eo380GIPljiZ+18BVjp7lkdg4DfWqu2UbJWKasbfoPaZ8SYz0dcOliuoB9H\nJoTpSplgMSPVSuqHiga/yQNvY1f1HyoUbjdagULZAoGAVt0ColUrAchtpdRhBkUC\nnXRHtP79m5XIY1U7VVqzUIZn3BZpUcZ3WlW+zSp8X3X2OdxvmgGnn0Yj1mG++0JV\nA2MXmjwHwkDX5lhqfJ9zGxNEZnBrVxelE6kuQa1CqOeQojbTHS15+aOqT/MjC2+O\nJYEMITTAEYy34GP1BCamhCw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "agave-atlas@agave-atlas-capstone.iam.gserviceaccount.com",
+  "client_id": "103056037288086740602",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/agave-atlas%40agave-atlas-capstone.iam.gserviceaccount.com"
+}
